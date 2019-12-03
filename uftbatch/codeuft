@@ -1,0 +1,7 @@
+SystemUtil.Run "C:\Program Files\Internet Explorer\iexplore.exe"
+Browser("Advantage Shopping").Navigate "http://advantageonlineshopping.com/#/"
+Browser("Advantage Shopping").Page("Advantage Shopping").Link("TabletsCategoryTxt").Click
+Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("buy_now").Click
+Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("save_to_cart").Click
+Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("WebElement").Click
+Browser("Advantage Shopping").CloseAllTabs

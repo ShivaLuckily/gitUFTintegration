@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\Shipra Mandal\\Documents\\Unified Functional Testing\\Smoke\\GUITest4\\Res6',namePairs:[]}]};
